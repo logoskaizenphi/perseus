@@ -1,0 +1,30 @@
+{
+  "name": "my_package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logoskaizenphi/BotTutorial.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logoskaizenphi/BotTutorial/issues"
+  },
+  "homepage": "https://github.com/logoskaizenphi/BotTutorial#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "npm": "^5.7.1",
+    "request": "^2.85.0",
+    "save": "^2.3.2"
+  },
+  "description": ""
+}
